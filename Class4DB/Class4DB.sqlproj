@@ -62,6 +62,7 @@
     <Build Include="class.sql" />
     <Build Include="student.sql" />
     <Build Include="sc.sql" />
+    <Build Include="ScalarFunction1.sql" />
   </ItemGroup>
   <ItemGroup>
     <PostDeploy Include="Script.PostDeployment1.sql" />
