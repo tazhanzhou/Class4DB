@@ -18,7 +18,7 @@ insert into student values('name2')
 insert into student values('name3')
 insert into student values('name4')
 insert into student values('name5')
-insert into student values('name6')
+insert into student values('name66')
 
 end
 
