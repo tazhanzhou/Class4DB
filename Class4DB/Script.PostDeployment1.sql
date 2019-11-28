@@ -10,7 +10,7 @@ Post-Deployment Script Template
 --------------------------------------------------------------------------------------
 */
 
-if((select count(1) from Student)=0)
+if((select count(1) from Student)<>0)
 begin
 
 insert into student values('name1')
