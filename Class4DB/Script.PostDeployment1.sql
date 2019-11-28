@@ -9,6 +9,24 @@ Post-Deployment Script Template
                SELECT * FROM [$(TableName)]					
 --------------------------------------------------------------------------------------
 */
-insert into class values('abc')
-insert into student values('name')
+insert into class values('abc1')
+insert into class values('abc2')
+insert into class values('abc3')
+insert into class values('abc4')
+insert into class values('abc5')
+insert into class values('abc6')
+
+insert into student values('name1')
+insert into student values('name2')
+insert into student values('name3')
+insert into student values('name4')
+insert into student values('name5')
+insert into student values('name6')
+
 insert into sc values(1,1)
+insert into sc values(2,5)
+insert into sc values(3,1)
+insert into sc values(1,2)
+insert into sc values(5,3)
+insert into sc values(6,4)
+insert into sc values(1,6)
