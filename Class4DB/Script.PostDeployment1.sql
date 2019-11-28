@@ -11,3 +11,4 @@ Post-Deployment Script Template
 */
 insert into class values('abc')
 insert into student values('name')
+insert into sc values(1,1)

@@ -1,6 +1,6 @@
 ﻿CREATE TABLE [dbo].[sc]
 (
-	[Id] INT NOT NULL PRIMARY KEY, 
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
     [st] INT NOT NULL, 
     [cl] INT NOT NULL
 )
